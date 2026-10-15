@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shalomi Kankeyan
 
-### 💻 Full Stack Developer | Web Developer | Tech Enthusiast
+### 💻 Full Stack Developer | Tech Enthusiast
 
 Welcome to my GitHub profile! I'm **Shalomi Kankeyan**, a passionate Full Stack Developer who enjoys building modern, responsive, and user-friendly web applications. I love exploring new technologies, solving problems, and continuously improving my technical skills.
 
